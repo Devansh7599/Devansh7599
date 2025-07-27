@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #3A3A3A;">Hi 👋, I'm Devansh Kumar</h1>
-<h3 align="center" style="color: #555555;">A passionate Data Analyst</h3>
+<h3 align="center" style="color: #555555;">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <!-- Stylish horizontal line -->
